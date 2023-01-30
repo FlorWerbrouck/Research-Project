@@ -1,2 +1,14 @@
-https://arxiv.org/ftp/arxiv/papers/2209/2209.01506.pdf
+[1] “Neural Networks for Chess: The magic of deep and reinforcement learning revealed,” D. Klein. June 11, 2022. Accessed: Jan. 30, 2023. [Online]. Available: 
+https://arxiv.org/ftp/arxiv/papers/2209/2209.01506.pdf 
 
+[2] “Python-chess: a chess library for Python.” Accessed: Jan. 30, 2023. [Online]. Available: 
+https://python-chess.readthedocs.io/en/latest/# 
+
+[3] “Minimax,” Wikipedia. Jan. 25, 2023. Accessed: Jan. 30, 2023. [Online]. Available: 
+https://en.wikipedia.org/wiki/Minimax 
+
+[4] “Alpha-beta pruning,” Wikipedia. Jan. 22, 2023. Accessed: Jan. 30, 2023. [Online]. Available: 
+https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning 
+
+[5] “Monte Carlo tree search,” Wikipedia. Jan. 11, 2023. Accessed: Jan. 30, 2023. [Online] Available: 
+https://en.wikipedia.org/wiki/Monte_Carlo_tree_search
